@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-Thomas Maurer works as a Senior Cloud Advocate at Microsoft. As part of the Azure engineering team (Cloud + AI), he engages with the community and customers around the world to share his knowledge and collect feedback to improve the Azure platform. Thomas helps the community and companies to transform their business to the cloud and make Azure the best cloud platform to run their applications.
+Thomas works as a Senior Program Manager for Azure Hybrid at Microsoft. As part of the part of the Azure engineering team (Cloud + AI), he engages  with the community and customers around the world to share my knowledge and collect feedback to improve the Azure hybrid cloud and edge platform. Thomas helps the communities and organizations with the adoption of Azure edge + platform (hybrid) and provides an engineering-focused effort designed to improving the customer hybrid and multi-cloud experience. 
+Before joining the Azure CPE (Customer + Partner Engineering) team, Thomas was part of the Microsoft Azure Cloud Advocates.
 
 Prior to joining Microsoft, Thomas worked as a Lead Architect and member of the executive team at itnetX, a consulting and engineering company located in Switzerland. Thomas was collaborating with Microsoft in several different programs such as Partner Cloud Solutions Architect (CSA), Azure Advisor and various Microsoft TAP and Preview Programs.
 
