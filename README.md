@@ -10,4 +10,4 @@ From 2012-2019, Thomas Maurer was awarded by Microsoft with the **Microsoft MVP 
 
 Thomas works closely with the community to promote Microsoft technology as a **Public Speaker** for Microsoft and other technical events such as Microsoft Ignite and Microsoft TechDays.
 
-You can get more information about Thomas on his **Cloud and Datacenter Blog**: [website (https://www.thomasmaurer.ch)][www.thomasmaurer.ch] or on Twitter: [website (https://www.twitter.com/thomasmaurer)][www.twitter.com/thomasmaurer] 
+You can get more information about Thomas on his **Cloud and Datacenter Blog**: [www.thomasmaurer.ch](https://www.thomasmaurer.ch)] or on Twitter: ][www.twitter.com/thomasmaurer](https://www.twitter.com/thomasmaurer)
