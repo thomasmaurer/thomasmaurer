@@ -1,13 +1,69 @@
-### Hi there 👋
+# Hi, I'm Thomas Maurer 👋
 
-Thomas works as a **Principal Program Manager & Chief Evangelist for Azure Hybrid at Microsoft**. As part of the part of the Azure engineering team (Cloud + AI), he engages with the community and customers around the world to share my knowledge and collect feedback to improve the Azure hybrid cloud and edge platform. Thomas helps communities and organizations with the adoption of Azure Adaptive Cloud Experience (hybrid, multicloud, and edge) and provide an engineering-focused effort designed to improving the customer experience, delivering evaluation experiences, content creation, cloud advocacy, community enablement, events, demos, and reference architecture support evaluation solutions.
+I work as an **EMEA Global Black Belt for Sovereign Cloud at Microsoft**, helping organizations turn complex sovereignty, regulatory, resilience, and technology requirements into practical cloud and AI solutions.
 
-Before joining the **Adaptive Cloud Experiences (ACX) Evaluation and Community Enablement team** in Microsoft, Thomas was part of the ACX Customer Engagement Engineering formerly known as Customer + Partner Engineering team, and the Microsoft Azure Cloud Advocacy team.
+My work focuses on building trusted platforms across public cloud, private cloud, hybrid, multicloud, edge, and disconnected environments.
 
-Prior to joining Microsoft, Thomas worked as a Lead Architect and member of the executive team at itnetX, a consulting and engineering company located in Switzerland. Thomas was collaborating with Microsoft in several different programs such as Partner Cloud Solutions Architect (CSA), **Azure Advisor** and various Microsoft TAP and Preview Programs.
+## 🔭 What I work on
 
-From 2012-2019, Thomas Maurer was awarded by Microsoft with the **Microsoft MVP (Microsoft Most Valuable Professional) Award** for his expertise in Cloud Computing and Virtualization and was awarded in two main categories, Microsoft Azure and Cloud & Datacenter Management. In 2014 Thomas was awarded the first time by Cisco with the **Cisco Champion Award** and in 2015 he was one of the first to receive the **Veeam Vanguard award**. In 2019, Thomas was additionally awarded by Microsoft with the **Windows Insider MVP award**, for his contributions in the Windows Insider program.
+- Microsoft Sovereign Cloud
+- Sovereign Public and Private Cloud
+- Azure Local and Azure Arc
+- Sovereign AI and Foundry Local
+- Hybrid, multicloud, and edge architectures
+- Business continuity and digital resilience
+- Confidential computing and platform security
+- Kubernetes and application portability
+- Infrastructure as code and automation
 
-Thomas works closely with the community to promote Microsoft technology as a **Public Speaker** for Microsoft and other technical events such as Microsoft Ignite and Microsoft TechDays.
+I work with customers, partners, engineering teams, and technical communities across EMEA. My goal is to make complex technology understandable, actionable, and useful in real-world environments.
 
-You can get more information about Thomas on his **Cloud and Datacenter Blog**: [www.thomasmaurer.ch](https://www.thomasmaurer.ch) or on Twitter: [www.twitter.com/thomasmaurer](https://www.twitter.com/thomasmaurer)
+## 🛠️ What I share
+
+Here on GitHub, I share and contribute to:
+
+- Reference architectures and technical guidance
+- Hands-on workshops and MicroHacks
+- Infrastructure-as-code examples
+- Demos and deployment resources
+- Hybrid and sovereign cloud patterns
+- Azure Local and Azure Arc content
+- Community projects and learning resources
+
+## 🌍 Current areas of interest
+
+I am currently exploring how organizations can:
+
+- Maintain control over data, operations, and infrastructure
+- Run critical workloads in connected or disconnected environments
+- Build and operate AI on customer-controlled infrastructure
+- Improve workload and application portability
+- Design resilient platforms across cloud, datacenter, and edge
+- Apply consistent governance and automation across distributed environments
+
+## 🎤 Speaking and community
+
+I regularly speak at Microsoft, partner, and community events about sovereign cloud, Azure Local, hybrid cloud, resilience, security, and AI.
+
+I also create technical articles, videos, workshops, and demos to help architects, engineers, and technology leaders apply these concepts in practice.
+
+## 🏆 Background
+
+Before my current role, I worked across Microsoft engineering, customer engagement, cloud advocacy, architecture, and community enablement.
+
+From 2012 to 2019, I received the Microsoft Most Valuable Professional award for my work in Microsoft Azure, cloud computing, virtualization, and datacenter management.
+
+## 🔗 Connect with me
+
+- 🌐 [Website and technical blog](https://www.thomasmaurer.ch/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/thomasmaurer2/)
+- ▶️ [YouTube](https://www.youtube.com/thomasmaurer)
+- 🐦 [X / Twitter](https://twitter.com/thomasmaurer)
+- 📅 [Speaking and events](https://www.thomasmaurer.ch)
+
+---
+
+> I believe the future of cloud is not defined by a single location. It is built on choice, control, resilience, and the ability to run applications and AI where they make the most sense.
+
+*Opinions shared here are my own.*
+`
